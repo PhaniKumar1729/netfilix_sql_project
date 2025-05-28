@@ -264,3 +264,7 @@ GROUP BY category;
 - **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
+
+
+
+![Netflix Logo](https://github.com/PhaniKumar1729/netflix_sql_project/blob/main/Netflix%20Logo.png)
